@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Estado --></label>
+    <name>PC_SEL_Estado__c</name>
+    <picklistValues>
+        <masterLabel>Calificación</masterLabel>
+        <translation><!-- Calificación --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Negociación</masterLabel>
+        <translation><!-- Negociación --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Oportunidad Ganada</masterLabel>
+        <translation><!-- Oportunidad Ganada --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Oportunidad Perdida</masterLabel>
+        <translation><!-- Oportunidad Perdida --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Proposición</masterLabel>
+        <translation><!-- Proposición --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Cargo --></label>
+    <name>PC_SEL_Cargo__c</name>
+    <picklistValues>
+        <masterLabel>CEO</masterLabel>
+        <translation><!-- CEO --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Comercial</masterLabel>
+        <translation><!-- Comercial --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Gerente</masterLabel>
+        <translation><!-- Gerente --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
