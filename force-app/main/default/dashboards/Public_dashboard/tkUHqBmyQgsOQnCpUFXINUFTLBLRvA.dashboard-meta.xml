@@ -3,6 +3,10 @@
     <backgroundEndColor>#FFFFFF</backgroundEndColor>
     <backgroundFadeDirection>Diagonal</backgroundFadeDirection>
     <backgroundStartColor>#FFFFFF</backgroundStartColor>
+    <chartTheme>light</chartTheme>
+    <colorPalette>unity</colorPalette>
+    <dashboardChartTheme>light</dashboardChartTheme>
+    <dashboardColorPalette>unity</dashboardColorPalette>
     <dashboardGridLayout>
         <dashboardGridComponents>
             <colSpan>4</colSpan>
@@ -50,6 +54,7 @@
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
                 <report>unfiled$public/Events_by_Account_and_Owner11</report>
+                <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>0</rowIndex>
             <rowSpan>2</rowSpan>
@@ -71,6 +76,7 @@
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
                 <report>unfiled$public/Events_by_Account_and_Owner</report>
+                <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>2</rowIndex>
             <rowSpan>2</rowSpan>

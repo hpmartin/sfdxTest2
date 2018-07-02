@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<RecordType xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Nivel_1</fullName>
     <active>true</active>
     <label>Cuenta</label>
@@ -103,51 +103,6 @@
         </values>
         <values>
             <fullName>Subsidiary</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>PC_SEL_Categoria__c</picklist>
-        <values>
-            <fullName>Banco central</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Entidad de crédito</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Fondo del mercado monetario</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Otra institución</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>PC_SEL_Pais_Cliente__c</picklist>
-        <values>
-            <fullName>España</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Inglaterra</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Italia</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>PC_SEL_Rol_de_cliente__c</picklist>
-        <values>
-            <fullName>%2E</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>%2E%2E</fullName>
             <default>false</default>
         </values>
     </picklistValues>

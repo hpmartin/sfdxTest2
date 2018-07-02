@@ -48,6 +48,8 @@
     <reportType>AccountActivity</reportType>
     <scope>team</scope>
     <showDetails>true</showDetails>
+    <showGrandTotal>true</showGrandTotal>
+    <showSubTotals>false</showSubTotals>
     <sortColumn>DUE_DATE</sortColumn>
     <sortOrder>Asc</sortOrder>
     <timeFrameFilter>

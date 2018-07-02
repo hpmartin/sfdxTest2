@@ -1,7 +1,7 @@
 {
-    "orgName": "indra-env-hub",
-    "edition": "Developer",
+    "orgName": "minsait-hub",
+    "edition": "Enterprise",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+        "enabled": ["S1DesktopEnabled", "ChatterEnabled"]
     }
 }
