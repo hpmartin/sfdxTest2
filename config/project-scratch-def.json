@@ -1,6 +1,7 @@
 {
     "orgName": "minsait-hub",
-    "edition": "Enterprise",
+    "edition": "Developer",
+    "hasSampleData": "true",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled", "ChatterEnabled"]
     }

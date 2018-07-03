@@ -562,7 +562,6 @@
   <types>
     <members>Account.Cliente</members>
     <members>Account.Cliente_facturable</members>
-    <members>Account.Nivel_1</members>
     <members>Metric.Completion</members>
     <members>Metric.Progress</members>
     <name>RecordType</name>
@@ -570,18 +569,6 @@
   <types>
     <members>ApexDevNet</members>
     <name>RemoteSiteSetting</name>
-  </types>
-  <types>
-    <members>unfiled$public</members>
-    <members>unfiled$public/Actividad_por_cuenta_OJt</members>
-    <members>unfiled$public/Clientes_sin_actividad</members>
-    <members>unfiled$public/Cuentas_tabular</members>
-    <members>unfiled$public/Cuentas_tabular_1</members>
-    <members>unfiled$public/Eventos_por_mercado</members>
-    <members>unfiled$public/Events_by_Account_and_Owner</members>
-    <members>unfiled$public/Events_by_Account_and_Owner1</members>
-    <members>unfiled$public/Events_by_Account_and_Owner11</members>
-    <name>Report</name>
   </types>
   <types>
     <members>Cuentas_con_Actividades</members>

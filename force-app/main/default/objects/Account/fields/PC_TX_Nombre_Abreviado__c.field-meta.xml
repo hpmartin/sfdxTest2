@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <fullName>PC_TX_Nombre_Abreviado__c</fullName>
+    <description>Abreviatura del Nombre de la cuenta</description>
+    <externalId>false</externalId>
+    <label>Nombre Abreviado</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>TextArea</type>
+</CustomField>

@@ -27,7 +27,7 @@
                 <groupingColumn>ASSIGNED</groupingColumn>
                 <header>Eventos por Owner</header>
                 <legendPosition>Bottom</legendPosition>
-                <report>unfiled$public/Events_by_Account_and_Owner</report>
+                <report>Agenda_Comercial/Events_by_Account_and_Owner</report>
                 <showPercentage>false</showPercentage>
                 <showPicturesOnCharts>true</showPicturesOnCharts>
                 <showValues>true</showValues>
@@ -53,7 +53,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
-                <report>unfiled$public/Events_by_Account_and_Owner11</report>
+                <report>Agenda_Comercial/Events_by_Account_and_Owner11</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>0</rowIndex>
@@ -75,7 +75,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
-                <report>unfiled$public/Events_by_Account_and_Owner</report>
+                <report>Agenda_Comercial/Events_by_Account_and_Owner</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>2</rowIndex>

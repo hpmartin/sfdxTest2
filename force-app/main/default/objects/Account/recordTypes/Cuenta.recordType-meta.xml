@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Nivel_1</fullName>
+    <fullName>Cuenta</fullName>
     <active>true</active>
     <label>Cuenta</label>
     <picklistValues>
@@ -27,39 +27,101 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>Active__c</picklist>
-        <values>
-            <fullName>No</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Yes</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>CustomerPriority__c</picklist>
-        <values>
-            <fullName>High</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Low</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Medium</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Industry</picklist>
         <values>
-            <fullName>Air traffic</fullName>
+            <fullName>Agriculture</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Defense and Security</fullName>
+            <fullName>Apparel</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Banking</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Biotechnology</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Chemicals</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Communications</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Construction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Consulting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Education</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Electronics</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Energy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Engineering</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Entertainment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Environmental</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Finance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Food %26 Beverage</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Government</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Healthcare</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hospitality</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Insurance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Machinery</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manufacturing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Media</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Not For Profit</fullName>
             <default>false</default>
         </values>
         <values>
@@ -67,11 +129,19 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Prointec</fullName>
+            <fullName>Recreation</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Security Systems</fullName>
+            <fullName>Retail</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shipping</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Technology</fullName>
             <default>false</default>
         </values>
         <values>
@@ -83,7 +153,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Voting Processes</fullName>
+            <fullName>Utilities</fullName>
             <default>false</default>
         </values>
     </picklistValues>
@@ -122,25 +192,6 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>SLA__c</picklist>
-        <values>
-            <fullName>Bronze</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Gold</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Platinum</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Silver</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Type</picklist>
         <values>
             <fullName>Channel Partner %2F Reseller</fullName>
@@ -168,21 +219,6 @@
         </values>
         <values>
             <fullName>Technology Partner</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>UpsellOpportunity__c</picklist>
-        <values>
-            <fullName>Maybe</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>No</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Yes</fullName>
             <default>false</default>
         </values>
     </picklistValues>

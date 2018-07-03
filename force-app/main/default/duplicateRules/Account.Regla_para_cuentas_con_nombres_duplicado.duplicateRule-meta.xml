@@ -2,7 +2,7 @@
 <DuplicateRule xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <actionOnInsert>Allow</actionOnInsert>
     <actionOnUpdate>Allow</actionOnUpdate>
-    <alertText>Use one of these records?</alertText>
+    <alertText>¿Utilizar uno de estos registros?</alertText>
     <description>Evita que existan cuentas con el nombre duplicado</description>
     <duplicateRuleFilter xsi:nil="true"/>
     <duplicateRuleMatchRules>
@@ -15,5 +15,5 @@
     <operationsOnInsert>Alert</operationsOnInsert>
     <operationsOnInsert>Report</operationsOnInsert>
     <securityOption>EnforceSharingRules</securityOption>
-    <sortOrder>1</sortOrder>
+    <sortOrder>2</sortOrder>
 </DuplicateRule>
