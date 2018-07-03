@@ -2,6 +2,7 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Cuenta</fullName>
     <active>true</active>
+    <description>Entes con los cuales la compañía hace negocios</description>
     <label>Cuenta</label>
     <picklistValues>
         <picklist>AccountSource</picklist>
@@ -29,11 +30,7 @@
     <picklistValues>
         <picklist>Industry</picklist>
         <values>
-            <fullName>Agriculture</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Apparel</fullName>
+            <fullName>Air traffic</fullName>
             <default>false</default>
         </values>
         <values>
@@ -41,31 +38,11 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Biotechnology</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Chemicals</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Communications</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Construction</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Consulting</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Education</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Electronics</fullName>
+            <fullName>Defense and Security</fullName>
             <default>false</default>
         </values>
         <values>
@@ -73,23 +50,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Engineering</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Entertainment</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Environmental</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Finance</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Food %26 Beverage</fullName>
             <default>false</default>
         </values>
         <values>
@@ -101,27 +62,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Hospitality</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Insurance</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Machinery</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Manufacturing</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Media</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Not For Profit</fullName>
             <default>false</default>
         </values>
         <values>
@@ -129,19 +70,11 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Recreation</fullName>
+            <fullName>Prointec</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Retail</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Shipping</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Technology</fullName>
+            <fullName>Security Systems</fullName>
             <default>false</default>
         </values>
         <values>
@@ -153,7 +86,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Utilities</fullName>
+            <fullName>Voting Processes</fullName>
             <default>false</default>
         </values>
     </picklistValues>

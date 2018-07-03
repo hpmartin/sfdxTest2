@@ -60,31 +60,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Agriculture</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Apparel</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Banking</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Biotechnology</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Chemicals</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Communications</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Construction</fullName>
             <default>false</default>
         </values>
         <values>
@@ -94,37 +70,13 @@
         <values>
             <fullName>Defense and Security</fullName>
             <default>false</default>
-        </values>        
-        <values>
-            <fullName>Education</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Electronics</fullName>
-            <default>false</default>
         </values>
         <values>
             <fullName>Energy</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Engineering</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Entertainment</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Environmental</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Finance</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Food %26 Beverage</fullName>
             <default>false</default>
         </values>
         <values>
@@ -136,27 +88,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Hospitality</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Insurance</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Machinery</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Manufacturing</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Media</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Not For Profit</fullName>
             <default>false</default>
         </values>
         <values>
@@ -166,25 +98,9 @@
         <values>
             <fullName>Prointec</fullName>
             <default>false</default>
-        </values>        
-        <values>
-            <fullName>Recreation</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Retail</fullName>
-            <default>false</default>
         </values>
         <values>
             <fullName>Security Systems</fullName>
-            <default>false</default>
-        </values>        
-        <values>
-            <fullName>Shipping</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Technology</fullName>
             <default>false</default>
         </values>
         <values>
@@ -197,10 +113,6 @@
         </values>
         <values>
             <fullName>Voting Processes</fullName>
-            <default>false</default>
-        </values>        
-        <values>
-            <fullName>Utilities</fullName>
             <default>false</default>
         </values>
     </picklistValues>
