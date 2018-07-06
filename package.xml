@@ -112,7 +112,6 @@
     <members>ContentVersion</members>
     <members>Contract</members>
     <members>ContractContactRole</members>
-    <members>DandBCompany</members>
     <members>DuplicateRecordItem</members>
     <members>DuplicateRecordSet</members>
     <members>EmailMessage</members>
@@ -373,7 +372,6 @@
     <members>Contact-Contact Layout</members>
     <members>ContentVersion-General</members>
     <members>Contract-Contract Layout</members>
-    <members>DandBCompany-D%26B Company Layout</members>
     <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
     <members>EmailMessage-Email Message Layout</members>
     <members>Event-Event Layout</members>
@@ -552,7 +550,6 @@
     <members>NewNote</members>
     <members>NewOpportunity</members>
     <members>NewTask</members>
-    <members>SendEmail</members>
     <members>Task.Defer</members>
     <members>Task.EditDescription</members>
     <members>Task.UpdatePriority</members>
