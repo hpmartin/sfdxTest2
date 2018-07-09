@@ -550,6 +550,7 @@
     <members>NewNote</members>
     <members>NewOpportunity</members>
     <members>NewTask</members>
+    <members>SendEmail</members>
     <members>Task.Defer</members>
     <members>Task.EditDescription</members>
     <members>Task.UpdatePriority</members>
