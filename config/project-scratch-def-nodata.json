@@ -1,8 +1,19 @@
 {
     "orgName": "minsait-hub",
-    "edition": "Developer",
-    "hasSampleData": "false",
+    "country": "ES",
+    "edition": "Enterprise",    
+    "hasSampleData": "true",
+    "features": [
+        "ContactsToMultipleAccounts", 
+        "AuthorApex",
+        "ForceComPlatform"
+    ],	    
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled", "ChatterEnabled"]
-    }
+        "enabled": [
+            "S1DesktopEnabled", 
+            "ChatterEnabled", 
+            "AnalyticsSharingEnable"
+        ]
+    }    
 }
+

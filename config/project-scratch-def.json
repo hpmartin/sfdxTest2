@@ -1,11 +1,12 @@
 {
     "orgName": "minsait-hub",
     "country": "ES",
-    "edition": "Developer",    
+    "edition": "Enterprise",    
     "hasSampleData": "true",
     "features": [
         "ContactsToMultipleAccounts", 
-        "AuthorApex"
+        "AuthorApex",
+        "ForceComPlatform"
     ],	    
     "orgPreferences" : {
         "enabled": [
