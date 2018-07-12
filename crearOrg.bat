@@ -12,4 +12,4 @@ REM Push del código
 sfdx force:source:push -u %1
 
 REM abrir org
-sfedx force:org:open -u %1
+sfdx force:org:open -u %1
