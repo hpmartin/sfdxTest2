@@ -12,7 +12,8 @@
         "enabled": [
             "S1DesktopEnabled", 
             "ChatterEnabled", 
-            "AnalyticsSharingEnable"
+            "AnalyticsSharingEnable",
+            "ShowViewHierarchyLink"
         ]
     }    
 }
