@@ -18,6 +18,14 @@
                 <behavior>Required</behavior>
                 <field>PC_REL_Cuenta_relacionada__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>PC_PER_Probabilidad__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>PC_CUR_Venta__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

@@ -5,6 +5,10 @@
         <default>true</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>testDX</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -66,6 +70,16 @@
         <field>Account.UpsellOpportunity__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Oportunidad__c.PC_CUR_Venta__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Oportunidad__c.PC_PER_Probabilidad__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Cliente</layout>
         <recordType>Account.Cliente</recordType>
@@ -81,6 +95,10 @@
     <layoutAssignments>
         <layout>Oportunidad__c-Oportunidad Layout</layout>
     </layoutAssignments>
+    <pageAccesses>
+        <apexPage>creadaDesdeWeb</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
     <profileActionOverrides>
         <actionName>Tab</actionName>
         <content>Pagina_de_inicio_direccion_global</content>
@@ -159,6 +177,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>CreateCustomizeFilters</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>CreateCustomizeReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
