@@ -6,6 +6,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>AccountController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>testDX</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -80,6 +84,11 @@
         <field>Oportunidad__c.PC_PER_Probabilidad__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Oportunidad__c.PC_SEL_Tipo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Cliente</layout>
         <recordType>Account.Cliente</recordType>
@@ -91,6 +100,9 @@
     <layoutAssignments>
         <layout>Account-Cuentas</layout>
         <recordType>Account.Cuenta</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Contact-Contact Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Oportunidad__c-Oportunidad Layout</layout>
