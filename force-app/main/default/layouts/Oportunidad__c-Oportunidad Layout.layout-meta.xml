@@ -26,6 +26,10 @@
                 <behavior>Edit</behavior>
                 <field>PC_CUR_Venta__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>PC_SEL_Tipo__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
