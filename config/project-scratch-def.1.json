@@ -1,7 +1,7 @@
 {
     "orgName": "minsait-hub",
     "country": "ES",
-    "edition": "Enterprise",    
+    "edition": "Unlimited",    
     "hasSampleData": "true",
     "features": [
         "ContactsToMultipleAccounts", 

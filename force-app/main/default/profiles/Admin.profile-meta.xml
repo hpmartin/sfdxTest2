@@ -95,10 +95,10 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Cuentas</layout>
-        <recordType>Account.Cuenta</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Contact-Contact Layout</layout>
+        <layout>Account-Cuentas</layout>
+        <recordType>Account.Cuenta</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Oportunidad__c-Oportunidad Layout</layout>
