@@ -124,7 +124,7 @@
     <dashboardType>SpecifiedUser</dashboardType>
     <description>Panel de indicadores de la página de inicio para el Comercial</description>
     <isGridLayout>true</isGridLayout>
-    <runningUser>test-qmftibtcumun@example.com</runningUser>
+    <runningUser>hpmartin@indra.es</runningUser>
     <textColor>#000000</textColor>
     <title>Panel Indicadores - Comercial</title>
     <titleColor>#000000</titleColor>
